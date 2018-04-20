@@ -1,0 +1,8 @@
+Info;25.12.2017 17:12:19;Message:_____________
+Info;25.12.2017 17:12:19;Message:Begin expense
+Error;25.12.2017 17:13:44;Message:Error:The value for column 'transfer' in table 'expense' is DBNull.
+Info;25.12.2017 18:19:20;Message:_____________
+Info;25.12.2017 18:19:20;Message:Begin expense
+Info;25.12.2017 18:19:25;Message:--------------------
+Warning;25.12.2017 18:19:25;Message:end update orders,exp:1
+Warning;25.12.2017 18:19:25;Message:------End Trigger------
